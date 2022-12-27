@@ -1,0 +1,47 @@
+_repo: History-of-a-literary-radical-and-other-essays_69426
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bourne, Randolph Silliman
+    alias: Bourne, Randolph S.
+    birthdate: 1886
+    deathdate: 1918
+    gutenberg_agent_id: '54325'
+    url: http://www.gutenberg.org/2009/agents/54325
+    wikipedia: https://en.wikipedia.org/wiki/Randolph_Bourne
+  editor:
+    agent_name: Brooks, Van Wyck
+    birthdate: 1886
+    deathdate: 1963
+    gutenberg_agent_id: '41582'
+    url: http://www.gutenberg.org/2009/agents/41582
+    wikipedia: https://en.wikipedia.org/wiki/Van_Wyck_Brooks
+description: ''
+gutenberg_issued: '2022-11-26'
+identifiers:
+  gutenberg: '69426'
+  lccn: '21026222'
+language: en
+pgterms:marc904: https://archive.org/details/historyofliterar00bouruoft/page/n9/mode/2up
+pgterms:marc905: 20210308122607bourne
+pgterms:marc906: '1920'
+pgterms:marc907: US
+production_note: Emmanuel Ackerman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: 'United States: B. W. Huebsch,1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American essays -- 20th century'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: 'History of a literary radical -- Our cultural humility -- Six portraits:
+  Karen. Sophronisba. Mon amie. Fergus. The professor. One of our conquerors -- This
+  older generation -- A mirror of the Middle West -- Ernest; or, Parent for a day
+  -- On discussion -- The puritan''s will to power -- The immanence of Dostoevsky
+  -- The art of Theodore Dreiser -- The uses of infallibility -- Impressions of Europe,
+  1913-14 -- Trans-national America -- Fragment of a novel.'
+title: History of a literary radical, and other essays
+url: http://www.gutenberg.org/ebooks/69426
